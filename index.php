@@ -13,6 +13,7 @@
 </head>
 <body>
     <!-- header section starts here -->
+    <header class="header">
     <div class="header-body">
     
     <!-- company logo here -->
@@ -26,9 +27,12 @@
         </nav>
 
     <!-- cart icons here     -->
-        <a href="" class="cart"><i class="fa-solid fa-cart-shopping"></i></a>
+        <a href="" class="cart"><i class="fa-solid fa-cart-shopping"></i><span>4</span></a>
+     
+        <!-- bars to show in the responsive  -->
+        <div id="menu-btn" class="fas fa-bars"></div>
     </div>
-
+    </header>
 
 
 
