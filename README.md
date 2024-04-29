@@ -79,3 +79,23 @@ To make this project to its completion the following languages have been used
 <a href="https://instagram.com/habib-sherfy-ig" target="blank"><img align="center" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habib-sherfy-ig" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/habib-sherfy" target="blank"><img align="center" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="habib-sherfy" height="30" width="40" /></a>
 </p>
+
+
+<!-- autho details  -->
+
+## Author Details 
+
+My main profession is a **`kenyan techie (developer and designer)`**
+
+![Static Badge](https://img.shields.io/badge/Full%20Name-Shafi%20Ngusia%20Noor-cyan)
+
+![Static Badge](https://img.shields.io/badge/Email-shafynoor%40gmail.com-brightgreen)
+
+![Static Badge](https://img.shields.io/badge/Age-23yrs-orange)
+
+![Static Badge](https://img.shields.io/badge/Country-Kenya-purple)
+
+![Static Badge](https://img.shields.io/badge/Phone%20Number-+254745599380-yellow)
+
+
+
