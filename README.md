@@ -4,7 +4,7 @@ A simple php project that will help you understand how shopping cart in most eco
 
 <!-- languages and tools -->
 
-### Languages and Tools used in this project
+## Languages and Tools used in this project
 
 To make this project to its completion the following languages have been used
 
@@ -28,6 +28,30 @@ To make this project to its completion the following languages have been used
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" style="padding-boto:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 <br />
+
+
+**`Languages used`**
+
+![Static Badge](https://img.shields.io/badge/Main%20Language-PHP-brightgreen)
+
+![Static Badge](https://img.shields.io/badge/First-HTML-orange)
+
+![Static Badge](https://img.shields.io/badge/Second-CSS-purple)
+
+![Static Badge](https://img.shields.io/badge/Third-MYSQL-yellow)
+
+
+
+**`Tools used`**
+
+![Static Badge](https://img.shields.io/badge/Version%20Control-Git-red)
+
+![Static Badge](https://img.shields.io/badge/Code%20Editor-Vs%20Code-maroon)
+
+![Static Badge](https://img.shields.io/badge/Code%20Storage-GitHub-blue)
+
+![Static Badge](https://img.shields.io/badge/Server-Xampp-pink)
+
 
 <!-- adding images to the readme file, especially the screenshots of the project -->
 
